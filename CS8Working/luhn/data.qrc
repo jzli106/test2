@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Mars Banks Base/visa.dat</file>
+    </qresource>
+</RCC>

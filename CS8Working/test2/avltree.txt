@@ -1,0 +1,5 @@
+http://faculty.washington.edu/moishe/javademos/jss2/ArrayBinarySearchTree.java
+https://github.com/fairlight1337/binary_search_tree_storage_example/blob/master/src/bsts/BinarySearchTree.cpp#L142
+https://github.com/fairlight1337/binary_search_tree_storage_example/blob/master/src/bsts/BinarySearchTree.cpp#L157
+http://www.bradapp.com/ftp/src/libs/C++/AvlTrees.html
+https://www.google.com/#q=avl+vector+binary+tree+c%2B%2B

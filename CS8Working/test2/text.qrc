@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2600.txt</file>
+        <file>open_folder_yellow.png</file>
+        <file>save_file_icon.png</file>
+    </qresource>
+</RCC>
