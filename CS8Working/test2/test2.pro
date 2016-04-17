@@ -15,11 +15,13 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    about.cpp
+    about.cpp \
+    node.cpp
 
 HEADERS  += mainwindow.h \
     useful.h \
-    about.h
+    about.h \
+    node.h
 
 FORMS    += mainwindow.ui \
     about.ui
